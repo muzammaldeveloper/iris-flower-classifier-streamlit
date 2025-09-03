@@ -119,7 +119,7 @@ For questions or suggestions, feel free to open an issue.
 ## 📬 Contact
 
 - **GitHub:** [muzammaldeveloper](https://github.com/muzammaldeveloper)
-- **Email:** muzammalhussain897@gmail.com
+- **Email:** muzammal.contect@gmail.com
 
 ---
 
